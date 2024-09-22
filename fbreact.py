@@ -10,7 +10,7 @@ colorama.init()
 def show_credits():
     credits = """
     \033[1;35m===========================================\033[0m
-    \033[1;36mCredits: Joshua Apostol | Explored by Shiki\033[0m
+    \033[1;36mCredits: Juswa & Sharley | Explored by Shiki\033[0m
     \033[1;35m===========================================\033[0m
     """
     print(credits)
@@ -26,7 +26,7 @@ def display_logo():
     ██╔══██║██║░░░██║░░░██║░░░██║░░██║
     ██║░░██║╚██████╔╝░░░██║░░░╚█████╔╝
     ╚═╝░░╚═╝░╚═════╝░░░░╚═╝░░░░╚════╝░\033[0m
-    \033[1;32mbest website pornhub.com\033[0m
+    \033[1;32mbest website https://my-web-tools-pi.vercel.app/\033[0m
     """
     print(logo)
 
